@@ -1,4 +1,4 @@
-package week01.day02;
+package week01_basic_syntax.day02;
 
 public class Declaration {
     public static void main(String[] args){
@@ -9,7 +9,7 @@ public class Declaration {
         System.out.println(x);
 
         final double y = 3.14d;
-        // y = 20 seria é um erro de compilação
+        // Se declarasse depois y = 20 seria é um erro de compilação
 
         System.out.println(y);
 

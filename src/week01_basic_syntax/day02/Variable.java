@@ -1,4 +1,4 @@
-package week01.day02;
+package week01_basic_syntax.day02;
 
 public class Variable {
     public static void main(String[] args){
