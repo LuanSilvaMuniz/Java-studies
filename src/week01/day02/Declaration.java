@@ -1,6 +1,6 @@
-package semana01.dia02;
+package week01.day02;
 
-public class Declaracao {
+public class Declaration {
     public static void main(String[] args){
 
         int x; //declaração da variavel x.

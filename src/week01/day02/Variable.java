@@ -1,6 +1,6 @@
-package semana01.dia02;
+package week01.day02;
 
-public class Variaveis {
+public class Variable {
     public static void main(String[] args){
 
         // Java e uma linguagem fortemente tipada.
