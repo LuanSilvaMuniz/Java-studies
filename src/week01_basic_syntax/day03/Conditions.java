@@ -1,7 +1,7 @@
 package week01_basic_syntax.day03;
 
 public class Conditions {
-    public static void main(){
+    public static void main(String[] args){
 
         /*
                     relational and logical operators
@@ -18,7 +18,10 @@ public class Conditions {
         */
 
         int age = 20;
-        System.out.println(age == 20); //tre
+
+        System.out.println(age > 18);  // true
+        System.out.println(age < 18);  // false
+        System.out.println(age == 20); //true
         System.out.println(age <= 20); //true
         System.out.println(age != 20); //false
         System.out.println();
@@ -45,8 +48,15 @@ public class Conditions {
         System.out.println(a.equals(b)); // true, always use .equals()
         System.out.println();
 
+        //Logical OR, AND, NOT
 
+        boolean istrue = true;
+        int number = 10;
 
+        System.out.println(number > 5 && istrue);  //true (both are true)
+        System.out.println(number > 11 || istrue); //true (only one needs to be true)
+        System.out.println(!istrue);               //false (! inverts the value)
+        System.out.println();
 
     }
 }
