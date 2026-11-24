@@ -1,5 +1,5 @@
 ## TIP CACULATOR
-A project developed by me in my first week stuying Java
+A project developed by me in my first week studying Java
 
 
 ## About the project
@@ -13,7 +13,7 @@ A tip calculator which gets the bill value and calculates the percentage of the 
 - Payment value for each person.
 
 
-## Tecnologies used
+## Technologies used
 - Java
 - Scanner
 - Math function
@@ -21,4 +21,4 @@ A tip calculator which gets the bill value and calculates the percentage of the 
 
 
 ## Objective
-Practice concepts I learned during the study week.
+Practice concepts I learned during the week.
