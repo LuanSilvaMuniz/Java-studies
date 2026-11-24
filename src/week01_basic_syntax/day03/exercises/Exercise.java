@@ -90,7 +90,7 @@ public class Exercise {
 
         int days = 365;
         boolean bool = days % 365 == 0;
-        String status = (bool) ? "Não é bisexto" : "Bisexto";
+        String status = (bool) ? "Is leap year" : "Is not leap year";
 
         System.out.println(status);
 

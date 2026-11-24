@@ -42,7 +42,7 @@ public class CompoundConditionals {
         /*  Procedence
             1 - !   NOT  - reverses the boolean value
             2 - &&  AND  - true only if both conditions are true
-            2 - ||  OR   - true if at least one condition is true
+            3 - ||  OR   - true if at least one condition is true
         */
     }
 }
